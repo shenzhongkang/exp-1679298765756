@@ -1,4 +1,4 @@
-# Responsive Dashboard
+# Responsive Admin Dashboard
 
 ![xl](https://github.com/shenzhongkang/exp-1679298765756/blob/main/20230320154756.jpg?raw=true)
 
